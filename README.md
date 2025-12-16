@@ -25,3 +25,11 @@ The dataset includes student academic records and relevant features to predict b
 
 ## Results
 Decision Tree achieved the best performance in predicting student dropout compared to Logistic Regression.
+
+## Notebook
+All coding, data preprocessing and modeling is done in:  
+`student_outcomes_prediction.ipynb`
+
+## Dataset
+File included: `student_data.xlsx`
+

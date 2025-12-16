@@ -1,0 +1,12 @@
+# Ignore report and slides
+*.pdf
+*.pptx
+*.docx
+asg3_group5.csv
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
